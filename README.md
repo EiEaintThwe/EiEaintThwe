@@ -1,75 +1,67 @@
 # Hi 👋 I'm Ei Eaint Thwe
 
-💻 Passionate Web Developer
-🌱 Currently improving React, Vue, and Backend Development
-🚀 Goal: Become a Full-Stack Developer
+💻 Passionate Web Developer  
+🌱 Currently improving React, Vue, and Backend Development  
+🚀 Goal: Become a Full-Stack Developer  
 
 ---
 
-## 🛠 Technical Skills
+## 🛠️ Technical Skills
 
-**Frontend**
+### 🎨 Frontend
+- HTML, CSS, JavaScript  
+- Bootstrap, Tailwind CSS  
+- React.js, Vue.js (learning)
 
-* HTML, CSS, JavaScript
-* Bootstrap, Tailwind CSS
-* React.js, Vue.js *(learning)*
+### ⚙️ Backend
+- PHP (Laravel), C#
 
-**Backend**
+### 🗄️ Database
+- MySQL, PostgreSQL  
 
-* PHP (Laravel), C#
-
-**Database**
-
-* MySQL, PostgreSQL
-
-**Tools**
-
-* Git, GitHub, Linux
+### 🧰 Tools
+- Git, GitHub, Linux  
 
 ---
 
 ## 🚀 Projects
 
-Here are some of my projects:
+- 🧮 Calculator App  
+- 📋 To-Do List App  
+- 🌐 Portfolio Website  
+- 🛒 Simple CRUD Web App (Laravel / PHP)  
 
-* 🔗 [View All Projects](https://github.com/EiEaintThwe?tab=repositories)
-
-### 💻 Featured Projects
-
-* 🧮 Calculator App
-* 📋 To-Do List App
-* 🌐 Portfolio Website
-* 🛒 Simple CRUD Web App (Laravel / PHP)
+👉 [View All Projects](https://github.com/EiEaintThwe?tab=repositories)
 
 ---
 
 ## 🎓 Education
 
-* 🎓 Bachelor of Computer Science (B.C.Sc)
-  University of Computer Studies, Yangon
-
-* 📜 Advanced PL/SQL Certificate
-
-* 📜 Web Development Foundation Certificate
+- 🎓 Bachelor of Computer Science (B.C.Sc)  
+  University of Computer Studies, Yangon  
+- 📜 Advanced PL/SQL Certificate  
+- 📜 Web Development Foundation Certificate  
 
 ---
 
-## 📫 Contact
+## 📊 GitHub Stats
 
-* Email: eieaintthwe9898@gmail.com
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EiEaintThwe&show_icons=true&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EiEaintThwe&layout=compact&theme=tokyonight)
 
-## 📊 My GitHub Stats
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=EiEaintThwe&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EiEaintThwe&layout=compact&theme=tokyonight)
-
-
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack Badges
 
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+---
+
+## 📫 Contact
+
+📧 Email: eieaintthwe9898@gmail.com
