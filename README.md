@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi 👋 I'm Ei Eaint Thwe
 
-<!--
-**EiEaintThwe/EiEaintThwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate Web Developer
+🌱 Currently improving React, Vue, and Backend Development
+🚀 Goal: Become a Full-Stack Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technical Skills
+
+**Frontend**
+
+* HTML, CSS, JavaScript
+* Bootstrap, Tailwind CSS
+* React.js, Vue.js *(learning)*
+
+**Backend**
+
+* PHP (Laravel), C#
+
+**Database**
+
+* MySQL, PostgreSQL
+
+**Tools**
+
+* Git, GitHub, Linux
+
+---
+
+## 🚀 Projects
+
+Here are some of my projects:
+
+* 🔗 [View All Projects](https://github.com/EiEaintThwe?tab=repositories)
+
+### 💻 Featured Projects
+
+* 🧮 Calculator App
+* 📋 To-Do List App
+* 🌐 Portfolio Website
+* 🛒 Simple CRUD Web App (Laravel / PHP)
+
+---
+
+## 🎓 Education
+
+* 🎓 Bachelor of Computer Science (B.C.Sc)
+  University of Computer Studies, Yangon
+
+* 📜 Advanced PL/SQL Certificate
+
+* 📜 Web Development Foundation Certificate
+
+---
+
+## 📫 Contact
+
+* Email: eieaintthwe9898@gmail.com
